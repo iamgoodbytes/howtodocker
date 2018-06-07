@@ -7,6 +7,6 @@
     <title>Well done!</title>
 </head>
 <body>
-    <img src="https://media1.giphy.com/media/HCxRp6hY9yIkU/giphy.gif" alt="">
+    <img width="300" src="https://media1.giphy.com/media/HCxRp6hY9yIkU/giphy.gif" alt="">
 </body>
 </html>
