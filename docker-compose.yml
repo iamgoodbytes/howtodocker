@@ -2,5 +2,5 @@ version: "3"
 services:
     web:
       image: goodbytesbe/howtodocker:live
-    ports:
-      - 80:80
+      ports:
+        - 80:80
